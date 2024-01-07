@@ -1,0 +1,42 @@
+D:\File kuliah Arga\Tugas kuliah\smt 5\sps\P3 SPS\ProgramP3\bin\Debug\ProgramP3.exe.config
+D:\File kuliah Arga\Tugas kuliah\smt 5\sps\P3 SPS\ProgramP3\bin\Debug\ProgramP3.exe
+D:\File kuliah Arga\Tugas kuliah\smt 5\sps\P3 SPS\ProgramP3\bin\Debug\ProgramP3.pdb
+D:\File kuliah Arga\Tugas kuliah\smt 5\sps\P3 SPS\ProgramP3\obj\Debug\ProgramP3.csproj.AssemblyReference.cache
+D:\File kuliah Arga\Tugas kuliah\smt 5\sps\P3 SPS\ProgramP3\obj\Debug\ProgramP3.Form1.resources
+D:\File kuliah Arga\Tugas kuliah\smt 5\sps\P3 SPS\ProgramP3\obj\Debug\ProgramP3.Properties.Resources.resources
+D:\File kuliah Arga\Tugas kuliah\smt 5\sps\P3 SPS\ProgramP3\obj\Debug\ProgramP3.csproj.GenerateResource.cache
+D:\File kuliah Arga\Tugas kuliah\smt 5\sps\P3 SPS\ProgramP3\obj\Debug\ProgramP3.csproj.CoreCompileInputs.cache
+D:\File kuliah Arga\Tugas kuliah\smt 5\sps\P3 SPS\ProgramP3\obj\Debug\ProgramP3.exe
+D:\File kuliah Arga\Tugas kuliah\smt 5\sps\P3 SPS\ProgramP3\obj\Debug\ProgramP3.pdb
+D:\File kuliah Arga\Tugas kuliah\smt 5\sps\Tubes SPS\bin\Debug\ProgramP3.exe.config
+D:\File kuliah Arga\Tugas kuliah\smt 5\sps\Tubes SPS\bin\Debug\ProgramP3.exe
+D:\File kuliah Arga\Tugas kuliah\smt 5\sps\Tubes SPS\bin\Debug\ProgramP3.pdb
+D:\File kuliah Arga\Tugas kuliah\smt 5\sps\Tubes SPS\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\File kuliah Arga\Tugas kuliah\smt 5\sps\Tubes SPS\bin\Debug\NPOI.dll
+D:\File kuliah Arga\Tugas kuliah\smt 5\sps\Tubes SPS\bin\Debug\NPOI.OOXML.dll
+D:\File kuliah Arga\Tugas kuliah\smt 5\sps\Tubes SPS\bin\Debug\NPOI.OpenXml4Net.dll
+D:\File kuliah Arga\Tugas kuliah\smt 5\sps\Tubes SPS\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\File kuliah Arga\Tugas kuliah\smt 5\sps\Tubes SPS\obj\Debug\ProgramP3.csproj.AssemblyReference.cache
+D:\File kuliah Arga\Tugas kuliah\smt 5\sps\Tubes SPS\obj\Debug\ProgramP3.Form1.resources
+D:\File kuliah Arga\Tugas kuliah\smt 5\sps\Tubes SPS\obj\Debug\ProgramP3.Properties.Resources.resources
+D:\File kuliah Arga\Tugas kuliah\smt 5\sps\Tubes SPS\obj\Debug\ProgramP3.csproj.GenerateResource.cache
+D:\File kuliah Arga\Tugas kuliah\smt 5\sps\Tubes SPS\obj\Debug\ProgramP3.csproj.CoreCompileInputs.cache
+D:\File kuliah Arga\Tugas kuliah\smt 5\sps\Tubes SPS\obj\Debug\ProgramP3.csproj.CopyComplete
+D:\File kuliah Arga\Tugas kuliah\smt 5\sps\Tubes SPS\obj\Debug\ProgramP3.exe
+D:\File kuliah Arga\Tugas kuliah\smt 5\sps\Tubes SPS\obj\Debug\ProgramP3.pdb
+C:\Users\Muhammad Ivan H\OneDrive\Gambar\Tubes SPS\Tubes SPS\bin\Debug\ProgramP3.exe.config
+C:\Users\Muhammad Ivan H\OneDrive\Gambar\Tubes SPS\Tubes SPS\bin\Debug\ProgramP3.exe
+C:\Users\Muhammad Ivan H\OneDrive\Gambar\Tubes SPS\Tubes SPS\bin\Debug\ProgramP3.pdb
+C:\Users\Muhammad Ivan H\OneDrive\Gambar\Tubes SPS\Tubes SPS\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Muhammad Ivan H\OneDrive\Gambar\Tubes SPS\Tubes SPS\bin\Debug\NPOI.dll
+C:\Users\Muhammad Ivan H\OneDrive\Gambar\Tubes SPS\Tubes SPS\bin\Debug\NPOI.OOXML.dll
+C:\Users\Muhammad Ivan H\OneDrive\Gambar\Tubes SPS\Tubes SPS\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Muhammad Ivan H\OneDrive\Gambar\Tubes SPS\Tubes SPS\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Muhammad Ivan H\OneDrive\Gambar\Tubes SPS\Tubes SPS\obj\Debug\ProgramP3.csproj.AssemblyReference.cache
+C:\Users\Muhammad Ivan H\OneDrive\Gambar\Tubes SPS\Tubes SPS\obj\Debug\ProgramP3.Form1.resources
+C:\Users\Muhammad Ivan H\OneDrive\Gambar\Tubes SPS\Tubes SPS\obj\Debug\ProgramP3.Properties.Resources.resources
+C:\Users\Muhammad Ivan H\OneDrive\Gambar\Tubes SPS\Tubes SPS\obj\Debug\ProgramP3.csproj.GenerateResource.cache
+C:\Users\Muhammad Ivan H\OneDrive\Gambar\Tubes SPS\Tubes SPS\obj\Debug\ProgramP3.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Ivan H\OneDrive\Gambar\Tubes SPS\Tubes SPS\obj\Debug\ProgramP3.csproj.CopyComplete
+C:\Users\Muhammad Ivan H\OneDrive\Gambar\Tubes SPS\Tubes SPS\obj\Debug\ProgramP3.exe
+C:\Users\Muhammad Ivan H\OneDrive\Gambar\Tubes SPS\Tubes SPS\obj\Debug\ProgramP3.pdb
